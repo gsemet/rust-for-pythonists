@@ -7,7 +7,7 @@ Homepage for the Rust for Pythonist documentation
 This project holds the source code of the documentation publically available at the following URL:
 
 
-   http://www.great-a-blog.co/rust-for-pythonists/
+   http://www.great-a-blog.co/rust-for-pythonists
 
 
 How to edit documentation ?
@@ -69,7 +69,7 @@ Edition tips
   Just stick to the essential matters.
 - Keep organised. Chapters are splitted in different files, once by section, this helps finding where to
   modify when a change is to be done. Keep the same structure.
-  
+
 
 References for this documentation
 =================================
