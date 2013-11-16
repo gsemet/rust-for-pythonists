@@ -21,6 +21,22 @@ Simply:
 
 That's all. Once accepted, the official documentation will be updated automatically.
 
+
+How is it done?
+===============
+
+This github project is linked to the Read my Doc service, which triggers a rebuild of the online
+documentation when changes are merged.
+
+A travis build is also triggered (I prefere the notification from travis-ci).
+
+Used online serivces
+--------------------
+
+- GitHub: https://github.com/Stibbons/rust-for-pythonists/
+- Read the Docs: https://readthedocs.org/projects/rust-for-pythonists/
+- Travis-CI: https://travis-ci.org/Stibbons/rust-for-pythonists
+
 References
 ==========
 
