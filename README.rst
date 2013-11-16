@@ -17,9 +17,9 @@ Simply:
 
 - fork this project (https://github.com/Stibbons/rust-for-pythonists)
 - edit your changes
-- submit a pullrequests
+- submit to me a Pullrequest (https://help.github.com/articles/creating-a-pull-request)
 
-That's all. Once accepted, the official documentation will be updated automatically.
+That's all. Once accepted, the official documentation will be automatically updated.
 
 
 How is it done?
@@ -36,6 +36,7 @@ Used online serivces
 - GitHub: https://github.com/Stibbons/rust-for-pythonists/
 - Read the Docs: https://readthedocs.org/projects/rust-for-pythonists/
 - Travis-CI: https://travis-ci.org/Stibbons/rust-for-pythonists
+
 
 References
 ==========
