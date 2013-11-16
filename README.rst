@@ -13,7 +13,16 @@ This project holds the source code of the documentation publically available at 
 How to edit documentation ?
 ===========================
 
-Simply:
+I'm not a good technical writer. That's a job and some are paid for this talent. My main goal is just
+to help Python programmers to learn this new language.
+
+Also, I'm not native english speaker. If you find mistakes, please send me at least an email. You
+can use this address: gaetan [ at ] xeberon.net
+
+How to fork
+-----------
+
+To fork this documentation and edit it offline, simply:
 
 - fork this project (https://github.com/Stibbons/rust-for-pythonists)
 - edit your changes
@@ -21,9 +30,15 @@ Simply:
 
 That's all. Once accepted, the official documentation will be automatically updated.
 
+Compilation requirements
+------------------------
 
-How is it done?
-===============
+- I use sphinx-builder to build this documentation (http://sphinx-doc.org/index.html)
+- with the cloud theme (http://pythonhosted.org/cloud_sptheme/cloud_theme.html)
+
+
+How automatic compilation of the documentation is done?
+=======================================================
 
 This github project is linked to the Read my Doc service, which triggers a rebuild of the online
 documentation when changes are merged.
@@ -46,6 +61,15 @@ I mainly use Sublime Text 3 as my main editor and its quite usefull reStructured
 - Sublime Text 3: http://www.sublimetext.com/
 - reStructuredText plugin: https://github.com/dbousamra/sublime-rst-completion
 
+
+Edition tips
+============
+
+- Try to keep files short. Reading a loooooooooong file is annoying. Don't try to detail everything.
+  Just stick to the essential matters.
+- Keep organised. Chapters are splitted in different files, once by section, this helps finding where to
+  modify when a change is to be done. Keep the same structure.
+  
 
 References for this documentation
 =================================
