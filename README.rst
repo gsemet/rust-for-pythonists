@@ -15,7 +15,7 @@ How to edit documentation ?
 
 Simply:
 
-- fork this project
+- fork this project (https://github.com/Stibbons/rust-for-pythonists)
 - edit your changes
 - submit a pullrequests
 
