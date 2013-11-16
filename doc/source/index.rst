@@ -8,17 +8,19 @@ Welcome to Rust for Pythonists's documentation!
 ===============================================
 
 How to submit change to this documentation?
+===========================================
 
 Simply fork this project and submit a Pull Request:
 
   - https://github.com/Stibbons/rust-for-pythonists
-  
-Contents:
+
+Table of Contents:
+==================
 
 .. toctree::
    :maxdepth: 2
 
-
+   01-introduction/01-introduction
 
 Indices and tables
 ==================
