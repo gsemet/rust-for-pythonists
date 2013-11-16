@@ -41,7 +41,7 @@ Used online serivces
 Which tool to edit reStructuredText ?
 =====================================
 
-I'm mainly use Sublime Text 3 as my main editor and its quite usefull reStructuredText plugin
+I mainly use Sublime Text 3 as my main editor and its quite usefull reStructuredText plugin
 
 - Sublime Text 3: http://www.sublimetext.com/
 - reStructuredText plugin: https://github.com/dbousamra/sublime-rst-completion
