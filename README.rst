@@ -38,8 +38,17 @@ Used online serivces
 - Travis-CI: https://travis-ci.org/Stibbons/rust-for-pythonists
 
 
-References
-==========
+Which tool to edit reStructuredText ?
+=====================================
+
+I'm mainly use Sublime Text 3 as my main editor and its quite usefull reStructuredText plugin
+
+- Sublime Text 3: http://www.sublimetext.com/
+- reStructuredText plugin: https://github.com/dbousamra/sublime-rst-completion
+
+
+References for this documentation
+=================================
 
 - https://speakerdeck.com/mitsuhiko/rust-from-python-and-ruby
 - http://lucumr.pocoo.org/2012/10/18/such-a-little-thing/
