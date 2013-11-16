@@ -3,9 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+===============================================
 Welcome to Rust for Pythonists's documentation!
 ===============================================
 
+How to submit change to this documentation?
+
+Simply fork this project and submit a Pull Request:
+
+  - https://github.com/Stibbons/rust-for-pythonists
+  
 Contents:
 
 .. toctree::
