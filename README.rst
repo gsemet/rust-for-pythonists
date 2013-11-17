@@ -7,7 +7,7 @@ Homepage for the Rust for Pythonist documentation
 This project holds the source code of the documentation publically available at the following URL:
 
 
-   http://www.great-a-blog.co/rust-for-pythonists
+   http://www.great-a-blog.co/rust-for-pythonists/
 
 
 How to edit documentation ?
