@@ -20,6 +20,7 @@ Table of Contents:
 .. toctree::
    :maxdepth: 2
 
+   00-TODO
    01-introduction/01-introduction
 
 Indices and tables
